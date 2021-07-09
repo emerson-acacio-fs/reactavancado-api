@@ -54,12 +54,12 @@
       "repeatable": false,
       "component": "page.section-agenda"
     },
-    "pricinBox": {
+    "pricingBox": {
       "type": "component",
       "repeatable": false,
       "component": "page.pricin-box"
     },
-    "sctionAboutUs": {
+    "sectionAboutUs": {
       "type": "component",
       "repeatable": false,
       "component": "page.sction-about-us"
