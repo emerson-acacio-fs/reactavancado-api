@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_page_modules_secs",
+  "info": {
+    "name": "modulesSec",
+    "icon": "clipboard-check"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "subTitle": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

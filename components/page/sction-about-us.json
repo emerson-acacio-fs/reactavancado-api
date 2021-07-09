@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_page_sction_aboutuses",
+  "info": {
+    "name": "sctionAboutUs",
+    "icon": "user-astronaut"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "authors": {
+      "collection": "author"
+    }
+  }
+}
