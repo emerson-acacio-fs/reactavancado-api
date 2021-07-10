@@ -6,7 +6,7 @@
  */
 
 const axios = require("axios");
-const netlifyWebhook = strapi.config.custom.get("netlifyWebhook:");
+const netlifyWebhook = strapi.config.get("custom.netlifyWebhook");
 
 module.exports = {
   lifecycles: {
